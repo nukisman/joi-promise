@@ -1,0 +1,19 @@
+{
+  "name": "joi-promise",
+  "version": "1.0.0",
+  "description": "Joi schema for promises validation.",
+  "main": "./lib/index",
+  "dependencies": {
+    "joi": "^6.4.1",
+    "joi-extender": "nukisman/joi-extender"
+  },
+  "devDependencies": {
+    "should": "^6.0.1",
+    "gulp-mocha": "^2.0.1",
+    "when": "^3.7.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nukisman/joi-promise.git"
+  }
+}
