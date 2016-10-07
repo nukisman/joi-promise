@@ -15,5 +15,10 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/nukisman/joi-promise.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Alexander Nuikin",
+    "email": "nukisman@gmail.com"
   }
 }
